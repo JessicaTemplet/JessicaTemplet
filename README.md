@@ -17,6 +17,10 @@ knowledge governance system for regulated industries, built on hyperbolic
 geometry, cryptographic audit trails, and formal privacy proofs. Solo
 architect, from research through implementation.
 
+Most of what's here is portfolio and personal work. The commercial work,
+including VeritasMemoria, is closed for now, so what's public is a slice,
+not the whole picture.
+
 #### Systems programming (Rust originals, ported to Python for reach)
 
 - [resp_kv_store](https://github.com/JessicaTemplet/resp_kv_store): a
