@@ -57,6 +57,29 @@ architect, from research through implementation.
 
 #### Languages and tools
 
-Python, Rust, TypeScript, JavaScript, SQL, DAX.
+Rust, Python, JavaScript, TypeScript, React, SQL, PostgreSQL, GraphQL,
+Docker, Axum, Tauri, Vite, MapLibre GL, Playwright, tokio, Git, DAX.
+
+SQL, PostgreSQL, GraphQL, and DAX work mostly lives in client databases,
+APIs, and BI reports, not the kind of thing you post to GitHub, so it won't
+show up in the project list above even though it's a real chunk of the
+work.
+
+**Systems programming:** memory-mapped I/O, zero-copy parsing, protocol
+implementation (RESP/TCP), memory allocators, concurrency primitives,
+unsafe Rust.
+
+**Math and theory:** hyperbolic geometry, spectral graph theory,
+topological data analysis, persistent homology, differential geometry,
+discrete mathematics, formal methods.
+
+**AI and security:** AI safety, AI governance, knowledge representation,
+memory architecture, cryptographic audit trails, privacy-by-architecture,
+zero-knowledge proofs.
+
+**Architecture:** system design, API design, database schema design, data
+pipeline architecture, local-first software, full-stack development.
+
+**Other:** technical writing, research.
 
 How to reach me: through [Templet Solutions](https://github.com/JessicaTemplet/Templet-Solutions).
