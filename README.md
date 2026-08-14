@@ -1,12 +1,15 @@
 ### Jessica Templet
 
-I specialize in solving problems that don't have easy solutions. Self-taught
-engineer, focused on backend reliability, distributed systems, and data
-integrity.
+I come at engineering from discrete mathematics rather than a CS degree.
+Structure first, implementation second. Most of what I build lives in
+backend reliability, distributed systems, and data integrity, the kind of
+problems that don't have an off-the-shelf answer.
 
-I build the same system twice on purpose: once in Rust to understand what's
-actually happening at the memory and concurrency level, and once in Python
-to see what a language with different guarantees does instead. A few of
+I started in Python. I ported my own projects to Rust to actually learn the
+language, ended up preferring to build new things in Rust for a while, then
+found out the market wants Python more than Rust, so I ported the Rust-only
+work back to Python for reach. Rust is still where my personal projects
+live. The TypeScript projects exist to prove I can do that too. A few of
 these pairs live side by side below.
 
 **Currently building:** VeritasMemoria, a local-first AI memory and
@@ -14,7 +17,7 @@ knowledge governance system for regulated industries, built on hyperbolic
 geometry, cryptographic audit trails, and formal privacy proofs. Solo
 architect, from research through implementation.
 
-#### Systems programming (Rust, ported to Python for comparison)
+#### Systems programming (Rust originals, ported to Python for reach)
 
 - [resp_kv_store](https://github.com/JessicaTemplet/resp_kv_store): a
   Redis-compatible key-value store speaking RESP over TCP
